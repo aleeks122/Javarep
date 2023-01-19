@@ -1,12 +1,10 @@
 
 package assignment2;
 
-
-public class A2_Three_b {
-    
+public class A2_Three_c {
     public static void main(String[] args) 
     {
-        int y = 8;
+        int y = 7;
         int x = 5;
     
         if ( y == 8 )
@@ -19,6 +17,4 @@ public class A2_Three_b {
             System.out.println( "&&&&&" );
         }
     }
-    
 }
-
