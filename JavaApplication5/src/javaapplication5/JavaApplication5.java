@@ -14,7 +14,7 @@ public class JavaApplication5 {
         // TODO code application logic here
         System.out.println("Hello World v1!");
     }
-    public void tet(){
+    public void test(){
         
     }
     
