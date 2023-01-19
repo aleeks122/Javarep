@@ -1,8 +1,8 @@
 
 package assignment2;
 
-public class A2_Three 
-{
+
+public class A2_Three_b {
     public static void main(String[] args) 
     {
         int y = 8;
@@ -12,9 +12,12 @@ public class A2_Three
             if ( x == 5 )
                 System.out.println( "@@@@@" );
         else
+        {
             System.out.println( "#####" );
-        System.out.println( "$$$$$" );
-        System.out.println( "&&&&&" );
+            System.out.println( "$$$$$" );
+            System.out.println( "&&&&&" );
+        }
     }
     
 }
+
