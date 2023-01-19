@@ -10,12 +10,12 @@ package javaapplication5;
  */
 public class JavaApplication5 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hello World");
+        System.out.println("Hello World v1!");
+    }
+    public void tet(){
+        
     }
     
 }
